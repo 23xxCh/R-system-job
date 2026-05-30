@@ -1,0 +1,22 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Project specific
+*.Rproj
+
+# Data files (too large for git)
+data/raw/*.json
+data/processed/*.csv
+
+# Output
+output/
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.temp
